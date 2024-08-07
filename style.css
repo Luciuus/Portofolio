@@ -5,7 +5,7 @@ body {
     color: whitesmoke;
     margin: 0;
     padding: 0;
-    background-image: url('.images/Background.jpeg');
+    background-image: url('./images/Background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
