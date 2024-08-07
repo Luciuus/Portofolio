@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 ## Introduction
 
-This portfolio is designed to provide an overview of my skills, projects, and professional journey. It includes details about my experience, education, and a showcase of my projects. The goal is to present my work in a clean and organized manner, making it easy for potential employers or collaborators to understand my capabilities.
+This portfolio is designed to provide an overview of my skills, projects, and professional journey. It includes details about my experience, education, and a showcase of my projects. The goal is to present my work in a clean and organized manner, making it easy for potential employers or collaborators to understand my capabilities. (Just example description)
 
 ## Insides
 
