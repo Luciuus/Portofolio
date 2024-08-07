@@ -1,7 +1,5 @@
 # Portofolio
 
-# Portfolio
-
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a developer. You can explore various sections to learn more about my work and background.
 
 ## Introduction
@@ -15,15 +13,13 @@ This portfolio is designed to provide an overview of my skills, projects, and pr
 - **Projects**: Detailed descriptions of the projects I have worked on, including links to live demos and source code.
 - **Experience**: Information about my professional experience, including roles and responsibilities.
 - **Education**: Details about my educational background.
-- **Contact**: A form to get in touch with me.
 
 ## Technologies Used
 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap** (or any other CSS framework you used)
-- **Font Awesome** (if used for icons)
+- **Font Awesome**
 
 DISCLAIMER:
 THIS IS NOT RESPONSIVE
